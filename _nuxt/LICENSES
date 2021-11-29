@@ -1,0 +1,64 @@
+/*!
+	 * Sizzle CSS Selector Engine v2.3.3
+	 * https://sizzlejs.com/
+	 *
+	 * Copyright jQuery Foundation and other contributors
+	 * Released under the MIT license
+	 * http://jquery.org/license
+	 *
+	 * Date: 2016-08-08
+	 */
+
+/*!
+	 * jQuery JavaScript Library v3.3.1
+	 * https://jquery.com/
+	 *
+	 * Includes Sizzle.js
+	 * https://sizzlejs.com/
+	 *
+	 * Copyright JS Foundation and other contributors
+	 * Released under the MIT license
+	 * https://jquery.org/license
+	 *
+	 * Date: 2018-01-20T17:24Z
+	 */
+
+/*!
+  * vue-router v3.4.7
+  * (c) 2020 Evan You
+  * @license MIT
+  */
+
+/*!
+ * Vue.js v2.6.12
+ * (c) 2014-2020 Evan You
+ * Released under the MIT License.
+ */
+
+/*!
+ * vue-client-only v2.0.0
+ * (c) 2019-present egoist <0x142857@gmail.com>
+ * Released under the MIT License.
+ */
+
+/*!
+ * vue-no-ssr v1.1.1
+ * (c) 2018-present egoist <0x142857@gmail.com>
+ * Released under the MIT License.
+ */
+
+/**!
+ * MixItUp v3.3.1
+ * A high-performance, dependency-free library for animated filtering, sorting and more
+ * Build 94e0fbf6-cd0b-4987-b3c0-14b59b67b8a0
+ *
+ * @copyright Copyright 2014-2018 KunkaLabs Limited.
+ * @author    KunkaLabs Limited.
+ * @link      https://www.kunkalabs.com/mixitup/
+ *
+ * @license   Commercial use requires a commercial license.
+ *            https://www.kunkalabs.com/mixitup/licenses/
+ *
+ *            Non-commercial use permitted under same terms as CC BY-NC 3.0 license.
+ *            http://creativecommons.org/licenses/by-nc/3.0/
+ */
